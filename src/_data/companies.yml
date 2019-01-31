@@ -1312,7 +1312,8 @@ icanmakeitbetter:
 imby.bio:
   industry: Sustainability
   url: http://imby.bio/
-  description: "([Gitlab](https://gitlab.com/imby.bio), [GitHub](https://github.com/imbybio/)) - imby.bio helps individuals bring nature back in to their urban environment. The company is based in London, UK and uses Elixir as their primary back-end technology."
+  description: "([Gitlab](https://gitlab.com/imby.bio), [GitHub](https://github.com/imbybio/)) - imby.bio helps individuals bring nature back in to their urban environment. The company is based in London, UK and uses Elixir as their 
+  ry back-end technology."
   location: London, United Kingdom
 
 nextjournal:
@@ -1324,6 +1325,7 @@ prima.it:
   industry: Insurance
   url: https://www.prima.it
   description: "Italian insurance company with a focus on cutting edge technologies."
+  github: https://github.com/primait
 
 thoughtbot:
   industry: Technology Consulting
